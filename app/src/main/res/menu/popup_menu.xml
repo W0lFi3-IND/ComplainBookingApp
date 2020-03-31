@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/one"
+        android:title="Home" />
+    <item
+        android:id="@+id/two"
+        android:title="About Us"/>
+    <item
+        android:id="@+id/three"
+        android:title="Departments"/>
+    <item
+        android:id="@+id/four"
+        android:title="Projects / Schemes"/>
+    <item
+        android:id="@+id/five"
+        android:title="News and Events"/>
+    <item
+        android:id="@+id/six"
+        android:title="E-Patrika"/>
+    <item
+        android:id="@+id/seven"
+        android:title="Contact Us"/>
+</menu>

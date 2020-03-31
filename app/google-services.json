@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789398509403",
+    "firebase_url": "https://regcomplain-ae81a.firebaseio.com",
+    "project_id": "regcomplain-ae81a",
+    "storage_bucket": "regcomplain-ae81a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789398509403:android:6b848220a63665c7e7ec7e",
+        "android_client_info": {
+          "package_name": "com.wolfie.regcomplain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789398509403-25qpb1i14t3v3ehf041p21oacq3f89h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfie.regcomplain",
+            "certificate_hash": "1fdda49cc49136bc1e13ea33f334f6bb9ea9050d"
+          }
+        },
+        {
+          "client_id": "789398509403-ilk4ct0l5953s3bpd5ib5n1oba77v1gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-2oKGugK8eLl80ru4pF0pJkJvmYwMZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789398509403-ilk4ct0l5953s3bpd5ib5n1oba77v1gn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
